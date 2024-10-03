@@ -1,0 +1,64 @@
+{
+  "job": [
+    {
+      "id": 1,
+      "description": "Office boy",
+      "salary": 400.50,
+      "department": "Office",
+      "date of join": "2024-10-01",
+      "employee_id": 1
+    },
+    {
+     "id": 2,
+      "description": "CEO",
+      "salary": 4000.50,
+      "department": "Office",
+      "date of join": "2004-10-01",
+      "employee_id": 2
+    },
+    {
+     "id": 3,
+      "description": "Manager",
+      "salary": 3000.50,
+      "department": "Office",
+      "date of join": "2021-10-01",
+      "employee_id": 3
+    },
+    {
+      "id": 4,
+      "description": "Team Leader",
+      "salary": 3000.50,
+      "department": "Office",
+      "date of join": "2022-10-01",
+      "employee_id": 4
+    },
+    {
+     "id": 5,
+      "description": "Shift Leader",
+      "salary": 600.50,
+      "department": "Office",
+      "date of join": "2032-10-01",
+      "employee_id": 5
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Emily Johnson",
+      "department": "Office",
+      "email": "emily.johnson@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Mark Wilson",
+      "department": "Office",
+      "email": "mark.wilson@example.com"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Office"
+    }
+  ]
+}
