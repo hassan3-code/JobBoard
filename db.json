@@ -1,5 +1,5 @@
 {
-  "job": [
+  "jobs": [
     {
       "id": 1,
       "description": "Office boy",
@@ -39,26 +39,6 @@
       "department": "Office",
       "date of join": "2032-10-01",
       "employee_id": 5
-    }
-  ],
-  "employees": [
-    {
-      "id": 1,
-      "name": "Emily Johnson",
-      "department": "Office",
-      "email": "emily.johnson@example.com"
-    },
-    {
-      "id": 2,
-      "name": "Mark Wilson",
-      "department": "Office",
-      "email": "mark.wilson@example.com"
-    }
-  ],
-  "categories": [
-    {
-      "id": 1,
-      "name": "Office"
     }
   ]
 }
